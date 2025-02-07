@@ -1,2 +1,3 @@
-# Eigen-Library-CPP-Tutorial
+# Eigen Library C++ Basics
+
 Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
